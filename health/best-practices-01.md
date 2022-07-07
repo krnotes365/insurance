@@ -1,5 +1,7 @@
 # Health Insurance Renewal Best Practices (2022)
 
+![Health Insurance](./images/health-insurance-01.png)
+
 ## Things to keep in mind while renewing health insurance
 India has the highest rate of medical inflation among all Asian countries with a 14% increase in the cost of medical care in 2021.
 

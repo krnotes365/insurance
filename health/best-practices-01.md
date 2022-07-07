@@ -3,7 +3,7 @@
 ![Health Insurance](./images/health-insurance-01.png)
 
 ## Things to keep in mind while renewing health insurance
-India has the highest rate of medical inflation among all Asian countries with a 14% increase in the cost of medical care in 2021.
+_India has the highest rate of medical inflation among all Asian countries with a 14% increase in the cost of medical care in 2021._
 
 With rising costs of medical care and an unusually high number of claims due to the Covid-19 pandemic, it is no surprise that the past few months have seen a rise in health insurance premiums. This, coupled with abnormally high rates of inflation, may seem like a cause of worry to policyholders.
 
